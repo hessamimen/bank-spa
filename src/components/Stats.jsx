@@ -13,7 +13,6 @@ const Stats = () => {
             {stat.value}
           </h4>
           <p className="font-poppins text-[15px] xs:text-[20px] leading-[21px] xs:leading-[26px] text-gradient uppercase ml-3">
-            {" "}
             {stat.title}
           </p>
         </div>
